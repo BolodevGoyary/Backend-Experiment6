@@ -10,9 +10,9 @@ Put all files in:
 MAMP: /Applications/MAMP/htdocs/experiment6  
 
 Files:
-db_connect.php
-delete.php
-list.php
+- db_connect.php
+- delete.php
+- list.php
 
 ### 3. Run
 MAMP:  
